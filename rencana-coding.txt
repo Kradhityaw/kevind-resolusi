@@ -4,5 +4,9 @@ Rencana coding
 - Belajar Python
 - Belajar Angular
 - Belajar CI
+- Belajar Laravel
+- Belajar React
+- Belajar Vue
 - Belajar JS
 - Belajar Matematika
+- Belajar Trigonometry
