@@ -3,5 +3,8 @@ Rencana coding
 - Belajar C
 - Belajar Python
 - Belajar Laravel
+- Belajar React
+- Belajar Vue
 - Belajar JS
 - Belajar Matematika
+- Belajar Trigonometry
