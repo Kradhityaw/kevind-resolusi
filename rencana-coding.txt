@@ -7,3 +7,4 @@ Rencana coding
 - Belajar Vue
 - Belajar JS
 - Belajar Matematika
+- Belajar Trigonometry
