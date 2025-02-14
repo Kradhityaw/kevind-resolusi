@@ -2,6 +2,7 @@ Rencana coding
 - Belajar C++
 - Belajar C
 - Belajar Python
-- Belajar Laravel
+- Belajar Angular
+- Belajar CI
 - Belajar JS
 - Belajar Matematika
