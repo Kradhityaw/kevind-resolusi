@@ -10,3 +10,4 @@ Rencana coding
 - Belajar JS
 - Belajar Matematika
 - Belajar Trigonometry
+- Belajar Kotlin
